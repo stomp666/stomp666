@@ -1,3 +1,3 @@
-me learning c++ as my first language (i barely remember anything)
+me learning c++ as my first language (i barely understand anything)
 
 ![ezgif-3-4e3a28b444](https://github.com/user-attachments/assets/fcb0a638-929c-4a6b-ad26-34c6c1a1a967)
